@@ -12,7 +12,7 @@ commands:
     permission: runic.announce
     aliases: [bc, broadcast]
   secretagentman:
-    description: You know what it does... # what white boy said
+    description: You know what it does... 
     usage: /secretagentman
     permission: runic.sam
     aliases: [sam, spy]
