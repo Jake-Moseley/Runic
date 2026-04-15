@@ -24,7 +24,7 @@ public class announceCmd implements CommandExecutor {
         String message = String.join(" ", args);
         getServer().broadcastMessage(" ");
         getServer().broadcastMessage("§c[ALERT] §f" + message);
-        getServer().broadcastMessage(" "); // yo this is an alert!!!! yeah dog // 0Pink approves this message
+        getServer().broadcastMessage(" ");
         return true;
 
     }
